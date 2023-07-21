@@ -1,6 +1,6 @@
 ---
 repository:
-  name: openssh
+  name: ansible-openssh
   description: Ansible role to configure a hardened openSSH daemon
   topics: ansible, role, ansible-role, hacktoberfest
 
