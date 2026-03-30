@@ -1,5 +1,17 @@
 # Changelog
 
+## [3.6.0](https://github.com/rolehippie/openssh/compare/v3.5.0...v3.6.0) (2026-03-30)
+
+### Dependencies
+
+* **minor:** update dependency community.general to >=12.5.0,<12.6.0 ([#52](https://github.com/rolehippie/openssh/issues/52)) ([8e6209a](https://github.com/rolehippie/openssh/commit/8e6209ac639a2784a7c03aeefe3fb755ab7ac6b9))
+
+### Miscellaneous
+
+* **flake:** updated lockfile [skip ci] ([322d97f](https://github.com/rolehippie/openssh/commit/322d97f2fc952c417b739df6f636008423a47a6c))
+* **flake:** updated lockfile [skip ci] ([307a35d](https://github.com/rolehippie/openssh/commit/307a35d211f0fa4c495d9ace8dc778883623f173))
+* **flake:** updated lockfile [skip ci] ([48ff191](https://github.com/rolehippie/openssh/commit/48ff19169cb24d78f0a8fae792e943aafae3749e))
+
 ## [3.5.0](https://github.com/rolehippie/openssh/compare/v3.4.0...v3.5.0) (2026-03-04)
 
 ### Features
