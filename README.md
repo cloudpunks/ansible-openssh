@@ -271,7 +271,7 @@ Allow agent forwarding for client connections
 #### Default value
 
 ```YAML
-openssh_client_allow_agent_forwarding: '{{ openssh_allow_agent_forwarding }}'
+openssh_client_allow_agent_forwarding: true
 ```
 
 ### openssh_client_gssapi_authentication
@@ -281,7 +281,7 @@ GSSAPI authentication for client connections
 #### Default value
 
 ```YAML
-openssh_client_gssapi_authentication: '{{ openssh_gssapi_authentication }}'
+openssh_client_gssapi_authentication: false
 ```
 
 ### openssh_client_gssapi_delegate_credentials
@@ -301,7 +301,7 @@ Hostbased authentication for client connections
 #### Default value
 
 ```YAML
-openssh_client_hostbased_authentication: '{{ openssh_hostbased_authentication }}'
+openssh_client_hostbased_authentication: false
 ```
 
 ### openssh_client_password_authentication
@@ -311,7 +311,7 @@ Password authentication for client connections
 #### Default value
 
 ```YAML
-openssh_client_password_authentication: '{{ openssh_password_authentication }}'
+openssh_client_password_authentication: false
 ```
 
 ### openssh_client_port
@@ -331,7 +331,7 @@ Allow x11 forwarding for client connections
 #### Default value
 
 ```YAML
-openssh_client_x11_forwarding: '{{ openssh_x11_forwarding }}'
+openssh_client_x11_forwarding: false
 ```
 
 ### openssh_compression
