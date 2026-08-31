@@ -1,5 +1,11 @@
 # Changelog
 
+## [4.5.1](https://github.com/rolehippie/openssh/compare/v4.5.0...v4.5.1) (2026-08-31)
+
+### Dependencies
+
+* **patch:** update dependency pipx:ansible-doctor to v8.4.1 ([#69](https://github.com/rolehippie/openssh/issues/69)) ([475374e](https://github.com/rolehippie/openssh/commit/475374e26ab38c1e965daa0c879845df99908f9e))
+
 ## [4.5.0](https://github.com/rolehippie/openssh/compare/v4.4.0...v4.5.0) (2026-08-17)
 
 ### Dependencies
