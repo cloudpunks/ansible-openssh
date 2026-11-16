@@ -1,5 +1,24 @@
 # Changelog
 
+## [5.0.0](https://github.com/rolehippie/openssh/compare/v4.8.0...v5.0.0) (2026-11-16)
+
+* automated release update [skip ci] ([ea0ccd0](https://github.com/rolehippie/openssh/commit/ea0ccd0fa61b775d1bacf7b426361cf268af883c))
+* automated release update [skip ci] ([6b0bef6](https://github.com/rolehippie/openssh/commit/6b0bef6dc4a6ad7821a887cfc258679029ba6719))
+* automated release update [skip ci] ([5f2b061](https://github.com/rolehippie/openssh/commit/5f2b06139df56c3177156c2b3a93a8d1a906a20e))
+* automated release update [skip ci] ([0f2f794](https://github.com/rolehippie/openssh/commit/0f2f794fd5b630fb934a1898b8c374f7a23cdb36))
+
+### Dependencies
+
+* **major:** update dependency community.general to v14 ([#94](https://github.com/rolehippie/openssh/issues/94)) ([22737e8](https://github.com/rolehippie/openssh/commit/22737e8fa9bc7d3b85c12171ecf1c88b54d0045b))
+* **mise:** update dependency pipx:ansible-core to v2.22.0 ([#91](https://github.com/rolehippie/openssh/issues/91)) ([9c38e7d](https://github.com/rolehippie/openssh/commit/9c38e7d728678e5dba25f1e166aae5450c960bf4))
+* **mise:** update dependency pipx:ansible-doctor to v8.4.4 ([#89](https://github.com/rolehippie/openssh/issues/89)) ([d110d12](https://github.com/rolehippie/openssh/commit/d110d129b527a0665d2f9be611b3483443d604cf))
+* **mise:** update dependency pipx:ansible-lint to v26.10.1 ([#84](https://github.com/rolehippie/openssh/issues/84)) ([b2fb34b](https://github.com/rolehippie/openssh/commit/b2fb34be22eb1d61d0c88d1a412d7332ba69208d))
+* **mise:** update dependency pipx:ansible-lint to v26.11.0 ([#92](https://github.com/rolehippie/openssh/issues/92)) ([aeb58ec](https://github.com/rolehippie/openssh/commit/aeb58ec28fc413ee3a5c076580eb9d2dcbe5cf6a))
+* **mise:** update dependency prek to v0.5.6 ([#85](https://github.com/rolehippie/openssh/issues/85)) ([63e57d1](https://github.com/rolehippie/openssh/commit/63e57d10cdc0e18608fdbbc6d4727f91b9cff65f))
+* **mise:** update dependency prek to v0.5.7 ([#86](https://github.com/rolehippie/openssh/issues/86)) ([b0d5da7](https://github.com/rolehippie/openssh/commit/b0d5da75d881aaf9125b2a7559423463d6ac8596))
+* **mise:** update dependency prek to v0.5.9 ([#88](https://github.com/rolehippie/openssh/issues/88)) ([f34a6ff](https://github.com/rolehippie/openssh/commit/f34a6ff98af910663eee22b0c80c85489f27d093))
+* **mise:** update node.js to v26 ([#87](https://github.com/rolehippie/openssh/issues/87)) ([79f1bc6](https://github.com/rolehippie/openssh/commit/79f1bc6212ff61c39154afe441efe11a3d837049))
+
 ## [4.8.0](https://github.com/rolehippie/openssh/compare/v4.7.0...v4.8.0) (2026-10-12)
 
 ### Dependencies
